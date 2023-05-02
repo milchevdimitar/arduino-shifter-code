@@ -1,4 +1,3 @@
-//Добавяне на библиотеката keyboard.h, чрез която въвеждаме 
 #include <Keyboard.h>
 
 #define btn1_pin 2
